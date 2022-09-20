@@ -1,0 +1,19 @@
+{
+    "title": "final exmpl",
+    "version": "0.1",
+    "scripts": {
+        "start": "nodemon src/index.js",
+        "dev": "nodemon src/index.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "mysql2": "^2.3.3",
+        "node-fetch": "^2.6.6",
+        "npm": "^8.18.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
